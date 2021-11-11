@@ -6,10 +6,12 @@ Basic and Advance tools
  <img align="left" img src="https://user-images.githubusercontent.com/68688918/141260990-a5518bfa-64a5-4a4d-a761-018ff043ddfe.jpeg" width="250px">
 
 
-# QUIZZ LIST
-<img align="left" img src="https://user-images.githubusercontent.com/68688918/140990689-97c8654a-cf0a-4360-9ee8-536298982c3d.jpeg" width="250px">
+# MAIN DESK
+<img align="left" img src="https://user-images.githubusercontent.com/68688918/141261421-708dd181-a9d2-433d-a2df-aaeba71fa9e5.jpeg" width="250px">
 
-# DETAIl OF QUIZZ
+
+# DETAIl OF QUIZZ!
+
 <img align="left" img src="https://user-images.githubusercontent.com/68688918/140991304-c66eb49d-b5b0-4d1e-bc69-45b532300cdc.jpeg" width="250px">
 <br/>
 <br/>
