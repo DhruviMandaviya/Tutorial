@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/friendList"
+        android:title="Friend List"
+        />
+    <item
+        android:id="@+id/Advance_Ui"
+        android:title="Advance UI"
+        />
+    <item
+        android:id="@+id/Calculator"
+        android:title="Calculator"
+        />
+    <item
+        android:id="@+id/Toast"
+        android:title="Toast"/>
+    <item
+        android:id="@+id/CustomView"
+        android:title="Custom View"/>
+
+    <item
+        android:id="@+id/GridView"
+        android:title="Grid View"/>
+    <item
+        android:id="@+id/recyclerView"
+        android:title="Recycler View"/>
+</menu>
