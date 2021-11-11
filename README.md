@@ -11,7 +11,7 @@ Basic and Advance tools
 <img align="left" img src="https://user-images.githubusercontent.com/68688918/141261421-708dd181-a9d2-433d-a2df-aaeba71fa9e5.jpeg" width="250px">
 
 
-# CALCULATER SCREEN
+# CALCULATOR SCREEN
 <img align="left" img src="https://user-images.githubusercontent.com/68688918/141264427-ede201df-4e92-453b-b199-956e3b059a93.jpeg" width="250px">
 <br/>
 <br/>
