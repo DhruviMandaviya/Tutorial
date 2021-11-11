@@ -11,7 +11,6 @@ Basic and Advance tools
 
 
 # DETAIl OF QUIZZ!
-
 <img align="left" img src="https://user-images.githubusercontent.com/68688918/140991304-c66eb49d-b5b0-4d1e-bc69-45b532300cdc.jpeg" width="250px">
 <br/>
 <br/>
